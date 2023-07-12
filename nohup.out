@@ -1,0 +1,4278 @@
+
+Date:  2023-07-11 15:09:04
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  1
+*
+Date:  2023-07-11 15:09:18
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  2
+*
+Date:  2023-07-11 15:09:30
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  3
+*DOGE -> Buy
+{
+  "amount": {
+    "amount": "890.23700000",
+    "currency": "DOGE"
+  },
+  "committed": true,
+  "created_at": "2023-07-11T15:09:53Z",
+  "fees": [
+    {
+      "amount": {
+        "amount": "2.99",
+        "currency": "EUR"
+      },
+      "type": "coinbase"
+    },
+    {
+      "amount": {
+        "amount": "0.00",
+        "currency": "EUR"
+      },
+      "type": "bank"
+    }
+  ],
+  "hold_days": 0,
+  "hold_until": null,
+  "id": "b00fe1f1-0cb8-5c67-9992-e213b80e17b7",
+  "idem": "6b10be31-eae5-4b62-bcfb-edeb84c9d08a",
+  "instant": true,
+  "is_first_buy": false,
+  "next_step": {
+    "action": "poll_status",
+    "max_poll_attempts": 100,
+    "poll_interval_in_ms": 5000,
+    "status_on_max_attempts": "processing"
+  },
+  "payment_method": {
+    "id": "d03848ed-a2dd-5d59-81f6-24db5ee21546",
+    "resource": "payment_method",
+    "resource_path": "/v2/payment-methods/d03848ed-a2dd-5d59-81f6-24db5ee21546"
+  },
+  "payout_at": "2023-07-11T15:09:53Z",
+  "requires_completion_step": false,
+  "resource": "buy",
+  "resource_path": "/v2/accounts/8ccad4c4-7d9b-53f9-8411-0d2b4c85a76b/buys/b00fe1f1-0cb8-5c67-9992-e213b80e17b7",
+  "status": "created",
+  "subtotal": {
+    "amount": "52.82",
+    "currency": "EUR"
+  },
+  "total": {
+    "amount": "55.81",
+    "currency": "EUR"
+  },
+  "transaction": null,
+  "unit_price": {
+    "amount": "0.0593",
+    "currency": "EUR",
+    "scale": 4
+  },
+  "updated_at": "2023-07-11T15:09:53Z",
+  "user_reference": "TFBL29C7"
+}
+Buy successful
+
+Date:  2023-07-11 15:09:41
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  603.5998693900661
+Profit:  -603.5998693900661
+Entry ID:  4
+*
+Date:  2023-07-11 15:09:54
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  5
+*
+Date:  2023-07-11 15:10:07
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  6
+*
+Date:  2023-07-11 15:10:19
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  7
+*
+Date:  2023-07-11 15:10:31
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  8
+*
+Date:  2023-07-11 15:10:43
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  9
+*
+Date:  2023-07-11 15:10:55
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  10
+*
+Date:  2023-07-11 15:11:03
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  11
+*
+Date:  2023-07-11 15:11:15
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  12
+*
+Date:  2023-07-11 15:11:26
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  13
+*
+Date:  2023-07-11 15:11:33
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  14
+*
+Date:  2023-07-11 15:11:40
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  15
+*
+Date:  2023-07-11 15:11:47
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  16
+*
+Date:  2023-07-11 15:11:53
+Crypto Symbol:  APT
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  17
+*
+Date:  2023-07-11 15:11:59
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  18
+*
+Date:  2023-07-11 15:17:08
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  19
+*
+Date:  2023-07-11 15:17:16
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  20
+*
+Date:  2023-07-11 15:17:23
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  21
+*
+Date:  2023-07-11 15:17:30
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  599.9998701690519
+Crypto Total Purchase Price:  603.7348055326878
+Profit:  -3.734935363635941
+Entry ID:  22
+*
+Date:  2023-07-11 15:17:37
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  23
+*
+Date:  2023-07-11 15:17:45
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  24
+*
+Date:  2023-07-11 15:17:52
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  25
+*
+Date:  2023-07-11 15:18:00
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  26
+*
+Date:  2023-07-11 15:18:07
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  27
+*
+Date:  2023-07-11 15:18:14
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  28
+*
+Date:  2023-07-11 15:18:19
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  29
+*
+Date:  2023-07-11 15:18:26
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  30
+*
+Date:  2023-07-11 15:18:34
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  31
+*
+Date:  2023-07-11 15:18:42
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  32
+*
+Date:  2023-07-11 15:18:50
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  33
+*
+Date:  2023-07-11 15:18:57
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  34
+*
+Date:  2023-07-11 15:19:03
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  35
+*
+Date:  2023-07-11 15:19:08
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  36
+*
+Date:  2023-07-11 15:24:18
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  37
+*
+Date:  2023-07-11 15:24:25
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  38
+*
+Date:  2023-07-11 15:24:32
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  39
+*
+Date:  2023-07-11 15:24:39
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  600.263317285757
+Crypto Total Purchase Price:  604.2233043178135
+Profit:  -3.9599870320564605
+Entry ID:  40
+*
+Date:  2023-07-11 15:24:47
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  41
+*
+Date:  2023-07-11 15:24:55
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  42
+*
+Date:  2023-07-11 15:25:02
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  43
+*
+Date:  2023-07-11 15:25:10
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  44
+*
+Date:  2023-07-11 15:25:17
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  45
+*
+Date:  2023-07-11 15:25:25
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  46
+*
+Date:  2023-07-11 15:25:30
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  47
+*
+Date:  2023-07-11 15:25:37
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  48
+*
+Date:  2023-07-11 15:25:44
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  49
+*
+Date:  2023-07-11 15:25:51
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  50
+*
+Date:  2023-07-11 15:25:58
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  51
+*
+Date:  2023-07-11 15:26:05
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  52
+*
+Date:  2023-07-11 15:26:13
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  53
+*
+Date:  2023-07-11 15:26:19
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  54
+*
+Date:  2023-07-11 15:31:26
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  55
+*
+Date:  2023-07-11 15:31:34
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  56
+*
+Date:  2023-07-11 15:31:41
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  57
+*
+Date:  2023-07-11 15:31:49
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  601.3903203967105
+Crypto Total Purchase Price:  603.6946519086606
+Profit:  -2.3043315119500676
+Entry ID:  58
+*
+Date:  2023-07-11 15:31:56
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  59
+*
+Date:  2023-07-11 15:32:04
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  60
+*
+Date:  2023-07-11 15:32:12
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  61
+*
+Date:  2023-07-11 15:32:20
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  62
+*
+Date:  2023-07-11 15:32:27
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  63
+*
+Date:  2023-07-11 15:32:35
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  64
+*
+Date:  2023-07-11 15:32:39
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  65
+*
+Date:  2023-07-11 15:32:47
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  66
+*
+Date:  2023-07-11 15:32:55
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  67
+*
+Date:  2023-07-11 15:33:01
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  68
+*
+Date:  2023-07-11 15:33:09
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  69
+*
+Date:  2023-07-11 15:33:18
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  70
+*
+Date:  2023-07-11 15:33:26
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  71
+*
+Date:  2023-07-11 15:33:32
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  72
+*
+Date:  2023-07-11 15:38:40
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  73
+*
+Date:  2023-07-11 15:38:48
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  74
+*
+Date:  2023-07-11 15:38:55
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  75
+*
+Date:  2023-07-11 15:39:02
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  599.2248788604682
+Crypto Total Purchase Price:  602.79968087147
+Profit:  -3.5748020110017933
+Entry ID:  76
+*
+Date:  2023-07-11 15:39:10
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  77
+*
+Date:  2023-07-11 15:39:17
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  78
+*
+Date:  2023-07-11 15:39:24
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  79
+*
+Date:  2023-07-11 15:39:32
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  80
+*
+Date:  2023-07-11 15:39:39
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  81
+*
+Date:  2023-07-11 15:39:46
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  82
+*
+Date:  2023-07-11 15:39:51
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  83
+*
+Date:  2023-07-11 15:40:00
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  84
+*
+Date:  2023-07-11 15:40:07
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  85
+*
+Date:  2023-07-11 15:40:14
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  86
+*
+Date:  2023-07-11 15:40:22
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  87
+*
+Date:  2023-07-11 15:40:30
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  88
+*
+Date:  2023-07-11 15:40:37
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  89
+*
+Date:  2023-07-11 15:40:43
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  90
+*
+Date:  2023-07-11 15:45:51
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  91
+*
+Date:  2023-07-11 15:46:00
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  92
+*
+Date:  2023-07-11 15:46:08
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  93
+*
+Date:  2023-07-11 15:46:15
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  598.2685389038181
+Crypto Total Purchase Price:  603.3265585348096
+Profit:  -5.058019630991453
+Entry ID:  94
+*
+Date:  2023-07-11 15:46:22
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  95
+*
+Date:  2023-07-11 15:46:30
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  96
+*
+Date:  2023-07-11 15:46:37
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  97
+*
+Date:  2023-07-11 15:46:45
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  98
+*
+Date:  2023-07-11 15:46:52
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  99
+*
+Date:  2023-07-11 15:47:00
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  100
+*
+Date:  2023-07-11 15:47:06
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  101
+*
+Date:  2023-07-11 15:47:13
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  102
+*
+Date:  2023-07-11 15:47:21
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  103
+*
+Date:  2023-07-11 15:47:27
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  104
+*
+Date:  2023-07-11 15:47:35
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  105
+*
+Date:  2023-07-11 15:47:42
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  106
+*
+Date:  2023-07-11 15:47:49
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  107
+*
+Date:  2023-07-11 15:47:54
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  108
+*
+Date:  2023-07-11 15:53:02
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  109
+*
+Date:  2023-07-11 15:53:10
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  110
+*
+Date:  2023-07-11 15:53:18
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  111
+*
+Date:  2023-07-11 15:53:26
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  598.8077644840747
+Crypto Total Purchase Price:  602.892688644251
+Profit:  -4.084924160176342
+Entry ID:  112
+*
+Date:  2023-07-11 15:53:32
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  113
+*
+Date:  2023-07-11 15:53:39
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  114
+*
+Date:  2023-07-11 15:53:47
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  115
+*
+Date:  2023-07-11 15:53:54
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  116
+*
+Date:  2023-07-11 15:54:00
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  117
+*
+Date:  2023-07-11 15:54:07
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  118
+*
+Date:  2023-07-11 15:54:12
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  119
+*
+Date:  2023-07-11 15:54:19
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  120
+*
+Date:  2023-07-11 15:54:27
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  121
+*
+Date:  2023-07-11 15:54:34
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  122
+*
+Date:  2023-07-11 15:54:41
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  123
+*
+Date:  2023-07-11 15:54:49
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  124
+*
+Date:  2023-07-11 15:54:57
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  125
+*
+Date:  2023-07-11 15:55:03
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  126
+*
+Date:  2023-07-11 16:00:11
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  127
+*
+Date:  2023-07-11 16:00:25
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  128
+*
+Date:  2023-07-11 16:00:38
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  129
+*
+Date:  2023-07-11 16:00:50
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.8903766714978
+Crypto Total Purchase Price:  603.0973944816601
+Profit:  -5.207017810162256
+Entry ID:  130
+*
+Date:  2023-07-11 16:01:02
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  131
+*
+Date:  2023-07-11 16:01:14
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  132
+*
+Date:  2023-07-11 16:01:26
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  133
+*
+Date:  2023-07-11 16:01:39
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  134
+*
+Date:  2023-07-11 16:01:51
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  135
+*
+Date:  2023-07-11 16:02:03
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  136
+*
+Date:  2023-07-11 16:02:10
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  137
+*
+Date:  2023-07-11 16:02:23
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  138
+*
+Date:  2023-07-11 16:02:35
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  139
+*
+Date:  2023-07-11 16:02:46
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  140
+*
+Date:  2023-07-11 16:02:58
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  141
+*
+Date:  2023-07-11 16:03:11
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  142
+*
+Date:  2023-07-11 16:03:21
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  143
+*
+Date:  2023-07-11 16:03:31
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  144
+*
+Date:  2023-07-11 16:08:44
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  145
+*
+Date:  2023-07-11 16:08:53
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  146
+*
+Date:  2023-07-11 16:09:00
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  147
+*
+Date:  2023-07-11 16:09:07
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  598.1245438737651
+Crypto Total Purchase Price:  603.0869678500067
+Profit:  -4.962423976241553
+Entry ID:  148
+*
+Date:  2023-07-11 16:09:13
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  149
+*
+Date:  2023-07-11 16:09:21
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  150
+*
+Date:  2023-07-11 16:09:28
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  151
+*
+Date:  2023-07-11 16:09:36
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  152
+*
+Date:  2023-07-11 16:09:43
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  153
+*
+Date:  2023-07-11 16:09:50
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  154
+*
+Date:  2023-07-11 16:09:55
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  155
+*
+Date:  2023-07-11 16:10:02
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  156
+*
+Date:  2023-07-11 16:10:09
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  157
+*
+Date:  2023-07-11 16:10:17
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  158
+*
+Date:  2023-07-11 16:10:24
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  159
+*
+Date:  2023-07-11 16:10:32
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  160
+*
+Date:  2023-07-11 16:10:39
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  161
+*
+Date:  2023-07-11 16:10:44
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  162
+*
+Date:  2023-07-11 16:15:52
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  163
+*
+Date:  2023-07-11 16:16:01
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  164
+*
+Date:  2023-07-11 16:16:08
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  165
+*
+Date:  2023-07-11 16:16:17
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  598.1549923316824
+Crypto Total Purchase Price:  603.0764857575466
+Profit:  -4.9214934258642415
+Entry ID:  166
+*
+Date:  2023-07-11 16:16:23
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  167
+*
+Date:  2023-07-11 16:16:31
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  168
+*
+Date:  2023-07-11 16:16:38
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  169
+*
+Date:  2023-07-11 16:16:45
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  170
+*
+Date:  2023-07-11 16:16:52
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  171
+*
+Date:  2023-07-11 16:16:59
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  172
+*
+Date:  2023-07-11 16:17:04
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  173
+*
+Date:  2023-07-11 16:17:11
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  174
+*
+Date:  2023-07-11 16:17:19
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  175
+*
+Date:  2023-07-11 16:17:25
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  176
+*
+Date:  2023-07-11 16:17:33
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  177
+*
+Date:  2023-07-11 16:17:41
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  178
+*
+Date:  2023-07-11 16:17:48
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  179
+*
+Date:  2023-07-11 16:17:53
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  180
+*
+Date:  2023-07-11 16:23:01
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  181
+*
+Date:  2023-07-11 16:23:09
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  182
+*
+Date:  2023-07-11 16:23:16
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  183
+*
+Date:  2023-07-11 16:23:24
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.4495422350295
+Crypto Total Purchase Price:  603.0973944816601
+Profit:  -5.647852246630578
+Entry ID:  184
+*
+Date:  2023-07-11 16:23:30
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  185
+*
+Date:  2023-07-11 16:23:38
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  186
+*
+Date:  2023-07-11 16:23:45
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  187
+*
+Date:  2023-07-11 16:23:52
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  188
+*
+Date:  2023-07-11 16:23:58
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  189
+*
+Date:  2023-07-11 16:24:06
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  190
+*
+Date:  2023-07-11 16:24:11
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  191
+*
+Date:  2023-07-11 16:24:18
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  192
+*
+Date:  2023-07-11 16:24:27
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  193
+*
+Date:  2023-07-11 16:24:34
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  194
+*
+Date:  2023-07-11 16:24:42
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  195
+*
+Date:  2023-07-11 16:24:48
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  196
+*
+Date:  2023-07-11 16:24:54
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  197
+*
+Date:  2023-07-11 16:25:00
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  198
+*
+Date:  2023-07-11 16:30:08
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  199
+*
+Date:  2023-07-11 16:30:16
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  200
+*
+Date:  2023-07-11 16:30:23
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  201
+*
+Date:  2023-07-11 16:30:30
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.3408702825941
+Crypto Total Purchase Price:  603.0171426944125
+Profit:  -5.676272411818445
+Entry ID:  202
+*
+Date:  2023-07-11 16:30:37
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  203
+*
+Date:  2023-07-11 16:30:46
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  204
+*
+Date:  2023-07-11 16:30:52
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  205
+*
+Date:  2023-07-11 16:31:00
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  206
+*
+Date:  2023-07-11 16:31:07
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  207
+*
+Date:  2023-07-11 16:31:15
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  208
+*
+Date:  2023-07-11 16:31:21
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  209
+*
+Date:  2023-07-11 16:31:28
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  210
+*
+Date:  2023-07-11 16:31:36
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  211
+*
+Date:  2023-07-11 16:31:42
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  212
+*
+Date:  2023-07-11 16:31:50
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  213
+*
+Date:  2023-07-11 16:31:58
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  214
+*
+Date:  2023-07-11 16:32:05
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  215
+*
+Date:  2023-07-11 16:32:10
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  216
+*
+Date:  2023-07-11 16:37:18
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  217
+*
+Date:  2023-07-11 16:37:25
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  218
+*
+Date:  2023-07-11 16:37:32
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  219
+*
+Date:  2023-07-11 16:37:40
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.195084061815
+Crypto Total Purchase Price:  603.2928383643558
+Profit:  -6.097754302540807
+Entry ID:  220
+*
+Date:  2023-07-11 16:37:47
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  221
+*
+Date:  2023-07-11 16:37:54
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  222
+*
+Date:  2023-07-11 16:38:01
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  223
+*
+Date:  2023-07-11 16:38:08
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  224
+*
+Date:  2023-07-11 16:38:15
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  225
+*
+Date:  2023-07-11 16:38:22
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  226
+*
+Date:  2023-07-11 16:38:27
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  227
+*
+Date:  2023-07-11 16:38:34
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  228
+*
+Date:  2023-07-11 16:38:41
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  229
+*
+Date:  2023-07-11 16:38:48
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  230
+*
+Date:  2023-07-11 16:38:56
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  231
+*
+Date:  2023-07-11 16:39:03
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  232
+*
+Date:  2023-07-11 16:39:09
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  233
+*
+Date:  2023-07-11 16:39:18
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  234
+*
+Date:  2023-07-11 16:44:26
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  235
+*
+Date:  2023-07-11 16:44:34
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  236
+*
+Date:  2023-07-11 16:44:41
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  237
+*
+Date:  2023-07-11 16:44:49
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.5764214399741
+Crypto Total Purchase Price:  603.3294424967562
+Profit:  -5.753021056782131
+Entry ID:  238
+*
+Date:  2023-07-11 16:44:55
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  239
+*
+Date:  2023-07-11 16:45:02
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  240
+*
+Date:  2023-07-11 16:45:10
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  241
+*
+Date:  2023-07-11 16:45:17
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  242
+*
+Date:  2023-07-11 16:45:24
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  243
+*
+Date:  2023-07-11 16:45:31
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  244
+*
+Date:  2023-07-11 16:45:35
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  245
+*
+Date:  2023-07-11 16:45:43
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  246
+*
+Date:  2023-07-11 16:45:50
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  247
+*
+Date:  2023-07-11 16:45:58
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  248
+*
+Date:  2023-07-11 16:46:06
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  249
+*
+Date:  2023-07-11 16:46:14
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  250
+*
+Date:  2023-07-11 16:46:20
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  251
+*
+Date:  2023-07-11 16:46:27
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  252
+*
+Date:  2023-07-11 16:51:35
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  253
+*
+Date:  2023-07-11 16:51:44
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  254
+*
+Date:  2023-07-11 16:51:52
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  255
+*
+Date:  2023-07-11 16:51:59
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.5735247069488
+Crypto Total Purchase Price:  603.1300054359806
+Profit:  -5.5564807290318186
+Entry ID:  256
+*
+Date:  2023-07-11 16:52:06
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  257
+*
+Date:  2023-07-11 16:52:14
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  258
+*
+Date:  2023-07-11 16:52:21
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  259
+*
+Date:  2023-07-11 16:52:28
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  260
+*
+Date:  2023-07-11 16:52:35
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  261
+*
+Date:  2023-07-11 16:52:41
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  262
+*
+Date:  2023-07-11 16:52:45
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  263
+*
+Date:  2023-07-11 16:52:52
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  264
+*
+Date:  2023-07-11 16:53:00
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  265
+*
+Date:  2023-07-11 16:53:07
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  266
+*
+Date:  2023-07-11 16:53:14
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  267
+*
+Date:  2023-07-11 16:53:21
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  268
+*ERROR 
+1 Failed download:
+ERROR ['UNI-USD']: Exception('UNI-USD: No price data found, symbol may be delisted (5m 2023-05-13 17:07:39 -> 2023-07-11 17:07:39)')
+Traceback (most recent call last):
+  File "/root/CryptoTradeBot/bot.py", line 109, in core_code
+    ).predict_crypto_price_movement(
+  File "/root/CryptoTradeBot/prediction.py", line 47, in predict_crypto_price_movement
+    X_train, X_test, y_train, y_test = train_test_split(
+  File "/usr/local/lib/python3.10/dist-packages/sklearn/model_selection/_split.py", line 2562, in train_test_split
+    n_train, n_test = _validate_shuffle_split(
+  File "/usr/local/lib/python3.10/dist-packages/sklearn/model_selection/_split.py", line 2236, in _validate_shuffle_split
+    raise ValueError(
+ValueError: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+
+Date:  2023-07-11 16:53:28
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  269
+*
+Date:  2023-07-11 16:53:34
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  270
+*
+Date:  2023-07-11 16:58:42
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  271
+*
+Date:  2023-07-11 16:58:50
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  272
+*
+Date:  2023-07-11 16:58:57
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  273
+*
+Date:  2023-07-11 16:59:04
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  598.1854334741107
+Crypto Total Purchase Price:  603.1078765741204
+Profit:  -4.922443100009673
+Entry ID:  274
+*
+Date:  2023-07-11 16:59:10
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  275
+*
+Date:  2023-07-11 16:59:18
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  276
+*
+Date:  2023-07-11 16:59:25
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  277
+*
+Date:  2023-07-11 16:59:32
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  278
+*
+Date:  2023-07-11 16:59:39
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  279
+*
+Date:  2023-07-11 16:59:46
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  280
+*
+Date:  2023-07-11 16:59:51
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  281
+*
+Date:  2023-07-11 16:59:59
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  282
+*
+Date:  2023-07-11 17:00:06
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  283
+*
+Date:  2023-07-11 17:00:17
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  284
+*
+Date:  2023-07-11 17:00:29
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  285
+*
+Date:  2023-07-11 17:00:42
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  286
+*
+Date:  2023-07-11 17:00:53
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  287
+*
+Date:  2023-07-11 17:01:02
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  288
+*
+Date:  2023-07-11 17:06:16
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  289
+*
+Date:  2023-07-11 17:06:28
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  290
+*
+Date:  2023-07-11 17:06:40
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  291
+*
+Date:  2023-07-11 17:06:52
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  598.8157218000272
+Crypto Total Purchase Price:  602.1390317424489
+Profit:  -3.3233099424217016
+Entry ID:  292
+*
+Date:  2023-07-11 17:07:04
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  293
+*
+Date:  2023-07-11 17:07:11
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  294
+*
+Date:  2023-07-11 17:07:19
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  295
+*
+Date:  2023-07-11 17:07:26
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  296
+*
+Date:  2023-07-11 17:07:32
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  297
+*
+Date:  2023-07-11 17:07:39.501419
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  298
+*
+Date:  2023-07-11 17:07:51
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  299
+*
+Date:  2023-07-11 17:07:58
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  300
+*
+Date:  2023-07-11 17:08:05
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  301
+*
+Date:  2023-07-11 17:08:12
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  302
+*
+Date:  2023-07-11 17:08:19
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  303
+*
+Date:  2023-07-11 17:08:26
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  304
+*
+Date:  2023-07-11 17:08:32
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  305
+*
+Date:  2023-07-11 17:08:38
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  306
+*
+Date:  2023-07-11 17:13:46
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  307
+*
+Date:  2023-07-11 17:13:53
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  308
+*
+Date:  2023-07-11 17:14:00
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  309
+*
+Date:  2023-07-11 17:14:08
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.3062850734973
+Crypto Total Purchase Price:  602.151843188789
+Profit:  -4.8455581152917375
+Entry ID:  310
+*
+Date:  2023-07-11 17:14:14
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  311
+*
+Date:  2023-07-11 17:14:22
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  312
+*
+Date:  2023-07-11 17:14:29
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  313
+*
+Date:  2023-07-11 17:14:37
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  314
+*
+Date:  2023-07-11 17:14:46
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  315
+*
+Date:  2023-07-11 17:14:53
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  316
+*
+Date:  2023-07-11 17:14:58
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  317
+*
+Date:  2023-07-11 17:15:06
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  318
+*
+Date:  2023-07-11 17:15:14
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  319
+*
+Date:  2023-07-11 17:15:21
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  320
+*
+Date:  2023-07-11 17:15:29
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  321
+*
+Date:  2023-07-11 17:15:37
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  322
+*
+Date:  2023-07-11 17:15:43
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  323
+*
+Date:  2023-07-11 17:15:49
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  324
+*
+Date:  2023-07-11 17:20:58
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  325
+*
+Date:  2023-07-11 17:21:06
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  326
+*
+Date:  2023-07-11 17:21:13
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  327
+*
+Date:  2023-07-11 17:21:20
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.8483613340619
+Crypto Total Purchase Price:  602.2216128835765
+Profit:  -4.3732515495146345
+Entry ID:  328
+*
+Date:  2023-07-11 17:21:28
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  329
+*
+Date:  2023-07-11 17:21:36
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  330
+*
+Date:  2023-07-11 17:21:43
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  331
+*
+Date:  2023-07-11 17:21:52
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  332
+*
+Date:  2023-07-11 17:21:58
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  333
+*
+Date:  2023-07-11 17:22:05
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  334
+*
+Date:  2023-07-11 17:22:10
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  335
+*
+Date:  2023-07-11 17:22:18
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  336
+*
+Date:  2023-07-11 17:22:27
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  337
+*
+Date:  2023-07-11 17:22:33
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  338
+*
+Date:  2023-07-11 17:22:41
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  339
+*
+Date:  2023-07-11 17:22:48
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  340
+*
+Date:  2023-07-11 17:22:55
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  341
+*
+Date:  2023-07-11 17:23:00
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  342
+*
+Date:  2023-07-11 17:28:08
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  343
+*
+Date:  2023-07-11 17:28:16
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  344
+*
+Date:  2023-07-11 17:28:24
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  345
+*
+Date:  2023-07-11 17:28:32
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.770232995502
+Crypto Total Purchase Price:  601.9860708376605
+Profit:  -4.2158378421584075
+Entry ID:  346
+*
+Date:  2023-07-11 17:28:39
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  347
+*
+Date:  2023-07-11 17:28:47
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  348
+*
+Date:  2023-07-11 17:28:54
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  349
+*
+Date:  2023-07-11 17:29:01
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  350
+*
+Date:  2023-07-11 17:29:08
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  351
+*
+Date:  2023-07-11 17:29:15
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  352
+*
+Date:  2023-07-11 17:29:20
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  353
+*
+Date:  2023-07-11 17:29:28
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  354
+*
+Date:  2023-07-11 17:29:37
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  355
+*
+Date:  2023-07-11 17:29:43
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  356
+*
+Date:  2023-07-11 17:29:51
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  357
+*
+Date:  2023-07-11 17:29:58
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  358
+*
+Date:  2023-07-11 17:30:05
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  359
+*
+Date:  2023-07-11 17:30:12
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  360
+*
+Date:  2023-07-11 17:35:20
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  361
+*
+Date:  2023-07-11 17:35:28
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  362
+*
+Date:  2023-07-11 17:35:36
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  363
+*
+Date:  2023-07-11 17:35:43
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.329288431671
+Crypto Total Purchase Price:  602.1867280361828
+Profit:  -4.8574396045117965
+Entry ID:  364
+*
+Date:  2023-07-11 17:35:50
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  365
+*
+Date:  2023-07-11 17:35:58
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  366
+*
+Date:  2023-07-11 17:36:05
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  367
+*
+Date:  2023-07-11 17:36:12
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  368
+*
+Date:  2023-07-11 17:36:20
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  369
+*
+Date:  2023-07-11 17:36:29
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  370
+*
+Date:  2023-07-11 17:36:33
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  371
+*
+Date:  2023-07-11 17:36:40
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  372
+*
+Date:  2023-07-11 17:36:48
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  373
+*
+Date:  2023-07-11 17:36:57
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  374
+*
+Date:  2023-07-11 17:37:05
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  375
+*
+Date:  2023-07-11 17:37:12
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  376
+*
+Date:  2023-07-11 17:37:19
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  377
+*
+Date:  2023-07-11 17:37:24
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  378
+*
+Date:  2023-07-11 17:42:32
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  379
+*
+Date:  2023-07-11 17:42:39
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  380
+*
+Date:  2023-07-11 17:42:48
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  381
+*
+Date:  2023-07-11 17:42:54
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.7632847155768
+Crypto Total Purchase Price:  602.102982218115
+Profit:  -4.339697502538229
+Entry ID:  382
+*
+Date:  2023-07-11 17:43:01
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  383
+*
+Date:  2023-07-11 17:43:09
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  384
+*
+Date:  2023-07-11 17:43:17
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  385
+*
+Date:  2023-07-11 17:43:24
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  386
+*
+Date:  2023-07-11 17:43:31
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  387
+*
+Date:  2023-07-11 17:43:38
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  388
+*
+Date:  2023-07-11 17:43:42
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  389
+*
+Date:  2023-07-11 17:43:50
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  390
+*
+Date:  2023-07-11 17:43:58
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  391
+*
+Date:  2023-07-11 17:44:05
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  392
+*
+Date:  2023-07-11 17:44:13
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  393
+*
+Date:  2023-07-11 17:44:21
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  394
+*
+Date:  2023-07-11 17:44:27
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  395
+*
+Date:  2023-07-11 17:44:32
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  396
+*
+Date:  2023-07-11 17:49:41
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  397
+*
+Date:  2023-07-11 17:49:50
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  398
+*
+Date:  2023-07-11 17:49:57
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  399
+*
+Date:  2023-07-11 17:50:03
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  598.015411342401
+Crypto Total Purchase Price:  602.3216087179976
+Profit:  -4.306197375596639
+Entry ID:  400
+*
+Date:  2023-07-11 17:50:10
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  401
+*
+Date:  2023-07-11 17:50:17
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  402
+*
+Date:  2023-07-11 17:50:24
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  403
+*
+Date:  2023-07-11 17:50:31
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  404
+*
+Date:  2023-07-11 17:50:38
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  405
+*
+Date:  2023-07-11 17:50:46
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  406
+*
+Date:  2023-07-11 17:50:52
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  407
+*
+Date:  2023-07-11 17:50:59
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  408
+*
+Date:  2023-07-11 17:51:07
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  409
+*
+Date:  2023-07-11 17:51:13
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  410
+*
+Date:  2023-07-11 17:51:22
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  411
+*
+Date:  2023-07-11 17:51:29
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  412
+*
+Date:  2023-07-11 17:51:35
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  413
+*
+Date:  2023-07-11 17:51:40
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  414
+*
+Date:  2023-07-11 17:56:49
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  415
+*
+Date:  2023-07-11 17:56:56
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  416
+*
+Date:  2023-07-11 17:57:03
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  417
+*
+Date:  2023-07-11 17:57:12
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.894564125255
+Crypto Total Purchase Price:  602.1837886134293
+Profit:  -4.289224488174341
+Entry ID:  418
+*
+Date:  2023-07-11 17:57:19
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  419
+*
+Date:  2023-07-11 17:57:26
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  420
+*
+Date:  2023-07-11 17:57:35
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  421
+*
+Date:  2023-07-11 17:57:42
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  422
+*
+Date:  2023-07-11 17:57:49
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  423
+*
+Date:  2023-07-11 17:57:56
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  424
+*
+Date:  2023-07-11 17:58:01
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  425
+*
+Date:  2023-07-11 17:58:09
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  426
+*
+Date:  2023-07-11 17:58:16
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  427
+*
+Date:  2023-07-11 17:58:23
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  428
+*
+Date:  2023-07-11 17:58:32
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  429
+*
+Date:  2023-07-11 17:58:39
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  430
+*
+Date:  2023-07-11 17:58:45
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  431
+*
+Date:  2023-07-11 17:58:50
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  432
+*
+Date:  2023-07-11 18:03:58
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  433
+*
+Date:  2023-07-11 18:04:11
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  434
+*
+Date:  2023-07-11 18:04:23
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  435
+*
+Date:  2023-07-11 18:04:35
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.2190892914534
+Crypto Total Purchase Price:  602.3983664744253
+Profit:  -5.179277182971873
+Entry ID:  436
+*
+Date:  2023-07-11 18:04:46
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  437
+*
+Date:  2023-07-11 18:04:58
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  438
+*
+Date:  2023-07-11 18:05:11
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  439
+*
+Date:  2023-07-11 18:05:23
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  440
+*
+Date:  2023-07-11 18:05:36
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  441
+*
+Date:  2023-07-11 18:05:49
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  442
+*
+Date:  2023-07-11 18:05:56
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  443
+*
+Date:  2023-07-11 18:06:09
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  444
+*
+Date:  2023-07-11 18:06:21
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  445
+*
+Date:  2023-07-11 18:06:34
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  446
+*
+Date:  2023-07-11 18:06:47
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  447
+*
+Date:  2023-07-11 18:07:01
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  448
+*
+Date:  2023-07-11 18:07:12
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  449
+*
+Date:  2023-07-11 18:07:20
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  450
+*
+Date:  2023-07-11 18:12:34
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  451
+*
+Date:  2023-07-11 18:12:42
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  452
+*
+Date:  2023-07-11 18:12:49
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  453
+*
+Date:  2023-07-11 18:12:57
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.2235133531238
+Crypto Total Purchase Price:  602.557760832787
+Profit:  -5.3342474796631905
+Entry ID:  454
+*
+Date:  2023-07-11 18:13:04
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  455
+*
+Date:  2023-07-11 18:13:12
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  456
+*
+Date:  2023-07-11 18:13:20
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  457
+*
+Date:  2023-07-11 18:13:27
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  458
+*
+Date:  2023-07-11 18:13:34
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  459
+*
+Date:  2023-07-11 18:13:41
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  460
+*
+Date:  2023-07-11 18:13:46
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  461
+*
+Date:  2023-07-11 18:13:53
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  462
+*
+Date:  2023-07-11 18:14:01
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  463
+*
+Date:  2023-07-11 18:14:09
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  464
+*
+Date:  2023-07-11 18:14:16
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  465
+*
+Date:  2023-07-11 18:14:24
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  466
+*
+Date:  2023-07-11 18:14:30
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  467
+*
+Date:  2023-07-11 18:14:36
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  468
+*
+Date:  2023-07-11 18:19:45
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  469
+*
+Date:  2023-07-11 18:19:53
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  470
+*
+Date:  2023-07-11 18:20:00
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  471
+*
+Date:  2023-07-11 18:20:07
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.3945272810255
+Crypto Total Purchase Price:  602.8764386278975
+Profit:  -5.481911346872039
+Entry ID:  472
+*
+Date:  2023-07-11 18:20:14
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  473
+*
+Date:  2023-07-11 18:20:22
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  474
+*
+Date:  2023-07-11 18:20:30
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  475
+*
+Date:  2023-07-11 18:20:38
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  476
+*
+Date:  2023-07-11 18:20:45
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  477
+*
+Date:  2023-07-11 18:20:52
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  478
+*
+Date:  2023-07-11 18:20:57
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  479
+*
+Date:  2023-07-11 18:21:04
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  480
+*
+Date:  2023-07-11 18:21:12
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  481
+*
+Date:  2023-07-11 18:21:19
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  482
+*
+Date:  2023-07-11 18:21:26
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  483
+*
+Date:  2023-07-11 18:21:33
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  484
+*
+Date:  2023-07-11 18:21:39
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  485
+*
+Date:  2023-07-11 18:21:45
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  486
+*
+Date:  2023-07-11 18:26:54
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  487
+*
+Date:  2023-07-11 18:27:02
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  488
+*
+Date:  2023-07-11 18:27:09
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  489
+*
+Date:  2023-07-11 18:27:16
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.8444882601888
+Crypto Total Purchase Price:  602.8967927439444
+Profit:  -5.05230448375562
+Entry ID:  490
+*
+Date:  2023-07-11 18:27:24
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  491
+*
+Date:  2023-07-11 18:27:31
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  492
+*
+Date:  2023-07-11 18:27:38
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  493
+*
+Date:  2023-07-11 18:27:45
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  494
+*
+Date:  2023-07-11 18:27:52
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  495
+*
+Date:  2023-07-11 18:27:59
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  496
+*
+Date:  2023-07-11 18:28:03
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  497
+*
+Date:  2023-07-11 18:28:10
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  498
+*
+Date:  2023-07-11 18:28:17
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  499
+*
+Date:  2023-07-11 18:28:25
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  500
+*
+Date:  2023-07-11 18:28:33
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  501
+*
+Date:  2023-07-11 18:28:41
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  502
+*
+Date:  2023-07-11 18:28:47
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  503
+*
+Date:  2023-07-11 18:28:52
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  504
+*
+Date:  2023-07-11 18:34:00
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  505
+*
+Date:  2023-07-11 18:34:08
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  506
+*
+Date:  2023-07-11 18:34:15
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  507
+*
+Date:  2023-07-11 18:34:22
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  597.8177763585968
+Crypto Total Purchase Price:  602.7543139316161
+Profit:  -4.936537573019336
+Entry ID:  508
+*
+Date:  2023-07-11 18:34:28
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  509
+*
+Date:  2023-07-11 18:34:36
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  510
+*
+Date:  2023-07-11 18:34:43
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  511
+*
+Date:  2023-07-11 18:34:51
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  512
+*
+Date:  2023-07-11 18:34:58
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  513
+*
+Date:  2023-07-11 18:35:05
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  514
+*
+Date:  2023-07-11 18:35:10
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  515
+*
+Date:  2023-07-11 18:35:17
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  516
+*
+Date:  2023-07-11 18:35:24
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  517
+*
+Date:  2023-07-11 18:35:31
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  518
+*
+Date:  2023-07-11 18:35:38
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  519
+*
+Date:  2023-07-11 18:35:45
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  520
+*
+Date:  2023-07-11 18:35:54
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  521
+*
+Date:  2023-07-11 18:35:59
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  522
+*
+Date:  2023-07-11 18:41:08
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  523
+*
+Date:  2023-07-11 18:41:16
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  524
+*
+Date:  2023-07-11 18:41:23
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  525
+*
+Date:  2023-07-11 18:41:30
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  596.8784895740503
+Crypto Total Purchase Price:  602.4844416463729
+Profit:  -5.60595207232268
+Entry ID:  526
+*
+Date:  2023-07-11 18:41:36
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  527
+*
+Date:  2023-07-11 18:41:44
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  528
+*
+Date:  2023-07-11 18:41:51
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  529
+*
+Date:  2023-07-11 18:41:58
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  530
+*
+Date:  2023-07-11 18:42:05
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  531
+*
+Date:  2023-07-11 18:42:14
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  532
+*
+Date:  2023-07-11 18:42:18
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  533
+*
+Date:  2023-07-11 18:42:25
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  534
+*
+Date:  2023-07-11 18:42:32
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  535
+*
+Date:  2023-07-11 18:42:39
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  536
+*
+Date:  2023-07-11 18:42:46
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  537
+*
+Date:  2023-07-11 18:42:54
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  538
+*
+Date:  2023-07-11 18:42:59
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  539
+*
+Date:  2023-07-11 18:43:05
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  540
+*
+Date:  2023-07-11 18:48:12
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  541
+*
+Date:  2023-07-11 18:48:20
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  542
+*
+Date:  2023-07-11 18:48:29
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  543
+*
+Date:  2023-07-11 18:48:36
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  595.0931137876426
+Crypto Total Purchase Price:  602.4437334142791
+Profit:  -7.350619626636558
+Entry ID:  544
+*
+Date:  2023-07-11 18:48:43
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  545
+*
+Date:  2023-07-11 18:48:50
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  546
+*
+Date:  2023-07-11 18:48:57
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  547
+*
+Date:  2023-07-11 18:49:04
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  548
+*
+Date:  2023-07-11 18:49:11
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  549
+*
+Date:  2023-07-11 18:49:18
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  550
+*
+Date:  2023-07-11 18:49:22
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  551
+*
+Date:  2023-07-11 18:49:29
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  552
+*
+Date:  2023-07-11 18:49:36
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  553
+*
+Date:  2023-07-11 18:49:42
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  554
+*
+Date:  2023-07-11 18:49:50
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  555
+*
+Date:  2023-07-11 18:49:58
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  556
+*
+Date:  2023-07-11 18:50:04
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  557
+*
+Date:  2023-07-11 18:50:09
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  558
+*
+Date:  2023-07-11 18:55:18
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  559
+*
+Date:  2023-07-11 18:55:26
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  560
+*
+Date:  2023-07-11 18:55:33
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  561
+*
+Date:  2023-07-11 18:55:40
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  596.0511381094353
+Crypto Total Purchase Price:  602.4030251821853
+Profit:  -6.351887072749946
+Entry ID:  562
+*
+Date:  2023-07-11 18:55:48
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  563
+*
+Date:  2023-07-11 18:55:55
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  564
+*
+Date:  2023-07-11 18:56:03
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  565
+*
+Date:  2023-07-11 18:56:10
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  566
+*
+Date:  2023-07-11 18:56:16
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  567
+*
+Date:  2023-07-11 18:56:25
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  568
+*
+Date:  2023-07-11 18:56:30
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  569
+*
+Date:  2023-07-11 18:56:37
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  570
+*
+Date:  2023-07-11 18:56:44
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  571
+*
+Date:  2023-07-11 18:56:51
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  572
+*
+Date:  2023-07-11 18:56:59
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  573
+*
+Date:  2023-07-11 18:57:07
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  574
+*
+Date:  2023-07-11 18:57:13
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  575
+*
+Date:  2023-07-11 18:57:19
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  576
+*
+Date:  2023-07-11 19:02:26
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  577
+*
+Date:  2023-07-11 19:02:39
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  578
+*
+Date:  2023-07-11 19:02:52
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  579
+*
+Date:  2023-07-11 19:03:04
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  596.0920040228536
+Crypto Total Purchase Price:  601.9261731664596
+Profit:  -5.834169143606005
+Entry ID:  580
+*
+Date:  2023-07-11 19:03:15
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  581
+*
+Date:  2023-07-11 19:03:28
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  582
+*
+Date:  2023-07-11 19:03:40
+Crypto Symbol:  MATIC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  583
+*
+Date:  2023-07-11 19:03:53
+Crypto Symbol:  BCH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  584
+*
+Date:  2023-07-11 19:04:04
+Crypto Symbol:  DAI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  585
+*
+Date:  2023-07-11 19:04:17
+Crypto Symbol:  UNI
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  586
+*
+Date:  2023-07-11 19:04:25
+Crypto Symbol:  LINK
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  587
+*
+Date:  2023-07-11 19:04:37
+Crypto Symbol:  ETC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  588
+*
+Date:  2023-07-11 19:04:49
+Crypto Symbol:  XLM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  589
+*
+Date:  2023-07-11 19:05:01
+Crypto Symbol:  ATOM
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  590
+*
+Date:  2023-07-11 19:05:14
+Crypto Symbol:  AAVE
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  591
+*
+Date:  2023-07-11 19:05:26
+Crypto Symbol:  ALGO
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  592
+*
+Date:  2023-07-11 19:05:37
+Crypto Symbol:  APT
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  593
+*
+Date:  2023-07-11 19:05:46
+Crypto Symbol:  NEAR
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  594
+*
+Date:  2023-07-11 19:10:58
+Crypto Symbol:  BTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  595
+*
+Date:  2023-07-11 19:11:07
+Crypto Symbol:  ETH
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  596
+*
+Date:  2023-07-11 19:11:14
+Crypto Symbol:  ADA
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  597
+*
+Date:  2023-07-11 19:11:22
+Crypto Symbol:  DOGE
+Current Crypto Total Price:  595.5862336401357
+Crypto Total Purchase Price:  602.2099661141764
+Profit:  -6.6237324740407075
+Entry ID:  598
+*
+Date:  2023-07-11 19:11:28
+Crypto Symbol:  LTC
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  599
+*
+Date:  2023-07-11 19:11:35
+Crypto Symbol:  SOL
+Current Crypto Total Price:  0.0
+Crypto Total Purchase Price:  0.0
+Profit:  0.0
+Entry ID:  600
+*

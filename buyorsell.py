@@ -41,7 +41,7 @@ class BuyOrSell:
         ):
             buy = "Buy"
             print(f"{self.symbol} -> Buy")
-            purchase_price = float(current_price) * 1.006
+            purchase_price = float(current_price)
             units = (amount_to_buy) / (float(current_price) * float(exchange_rate))
             acc_balance = acc_balance - (units * current_price * exchange_rate)
             units = round(units, 3)

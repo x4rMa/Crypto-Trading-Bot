@@ -13,6 +13,7 @@ symbol = "LTC"
 
 # Get the account id details
 try:
+    #print(client.get_primary_account())
     account = client.get_account(symbol)
     for key, value in account.items():
         if key == "id":

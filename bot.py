@@ -18,7 +18,7 @@ class Bot:
         load_dotenv()
         self.api = os.getenv("KEY")
         self.secret = os.getenv("SECRET")
-        self.acc_balance = 850.0
+        self.acc_balance = 630.0
         self.amount_to_buy = 600.0
         self.database = "bot.db"
         self.delta_time_yf = 59
@@ -139,6 +139,8 @@ class Bot:
                 self.profit = (
                     self.crypto_current_total_price - self.crypto_total_purchase_price
                 )
+
+                self.profit = self.profit - (self.profit * 0.01) # 10% maximum commission
 
                 (
                     self.purchase_price,
